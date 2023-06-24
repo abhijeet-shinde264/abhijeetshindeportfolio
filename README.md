@@ -1,3 +1,7 @@
+<div align="center">
+  <img alt="Demo" src="./Images/Screenshot1.png" />
+</div>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
