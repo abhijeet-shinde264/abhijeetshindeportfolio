@@ -18,9 +18,7 @@ This project was built using these technologies.
 - VsCode
 
 ## Screenshots
-<div align="center">
-  <a href="./Images" ></a>
-</div>
+Please see the screenshot folder for the images..
 
 ## Features
 
