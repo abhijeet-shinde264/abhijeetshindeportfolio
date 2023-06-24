@@ -1,10 +1,8 @@
-import logo from './logo.svg';
 import React,{useEffect,useState} from 'react';
 import {
   BrowserRouter as Router,
   Route,
-  Routes,
-  Navigate
+  Routes
 } from "react-router-dom";
 import Navbar from './NavBar/Navigation';
 import Home from './Pages/HomePage/Homepage';
