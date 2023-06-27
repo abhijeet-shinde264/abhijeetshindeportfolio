@@ -29,7 +29,7 @@ function HomePage2() {
                 <b className="purple"> NTT DATA </b> as an <b className="purple">Digital Technology Analyst</b>
               </i>
               <br/>
-              <br />I am fluent in some languages like
+              <br />I am fluent in classics like
               <i>
                 <b className="purple"> Java , python , Android Development , HTML , Css and SAP. </b>
               </i>

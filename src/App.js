@@ -17,6 +17,8 @@ import About from './Pages/About/About';
 
 import Projects from './Pages/Projects/Projects';
 
+import ScrollToTop from './components/ScrollOnTop';
+
 
 function App() {
   const [load, upadateLoad] = useState(true);
@@ -34,7 +36,7 @@ function App() {
       <Preloader load={load} />
       <div className="App" id={load ? "no-scroll" : "scroll"}>
         <Navbar />
-        {/*<ScrollToTop />*/}
+        <ScrollToTop />
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path='/about' element={<About/>}/>
